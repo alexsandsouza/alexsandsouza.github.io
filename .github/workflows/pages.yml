@@ -1,4 +1,4 @@
-﻿name: Publicar o portfolio
+name: Publicar o portfolio
 
 on:
   workflow_dispatch:
